@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "アップタウン・ガール",
+  "base_artist": "Billy Joel",
+  "createdAt": "2026-02-15T13:58:11.166257Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Uptown Girl",
+      "artist": "Billy Joel",
+      "has_synced": false,
+      "path": "select/pl_01_Uptown_Girl_Billy_Joel.txt"
+    }
+  ]
+}
